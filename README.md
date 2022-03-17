@@ -2,7 +2,6 @@
 
 - 🔭 Hoje trabalho como Sysadmin
 - 🌱 Estudando IaC
-- 📫 Contate-me no e-mail: melquis@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div align="center">
